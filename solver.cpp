@@ -15,7 +15,7 @@
 #include <unistd.h>
 #endif
 using namespace std;
-//edho urke pedthunna
+//edho 
 #ifdef _WIN32
   #define gc() getchar()
 #else
